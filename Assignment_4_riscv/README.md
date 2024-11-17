@@ -1,4 +1,4 @@
-# Ramaiah-Skill-Academy-RSAGWPVLSI17
+
 
 - [What is RISC V Processor](#what-is-risc-v-processor)
 - [Calculation](#calculation)
